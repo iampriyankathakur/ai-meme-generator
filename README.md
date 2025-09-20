@@ -21,11 +21,11 @@ pip install -r requirements.txt
 python src/pipeline.py --image data/sample.jpg
 
 ```
-Output:
+## Output:
 
 Meme saved in assets/meme_output.jpg
 
-##📊 Tech Stack
+## 📊 Tech Stack
 
 Python
 
